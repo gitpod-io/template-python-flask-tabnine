@@ -1,6 +1,8 @@
-# A Python Flask template on Gitpod
+# A Python Flask template on Gitpod, with Tabnine enabled
 
 This is a [Python Flask](https://flask.palletsprojects.com/en/2.0.x) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+
+Please note, this project has [Tabnine](https://www.tabnine.com/)'s AI-assisted code completion configured.
 
 ## Next Steps
 
